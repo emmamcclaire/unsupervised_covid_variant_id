@@ -1,0 +1,201 @@
+Accession,Release_Date,Species,Molecule_type,Length,Sequence_Type,Nuc_Completeness,Genotype,Geo_Location,USA,Host,Isolation_Source,Collection_Date
+NC_045512,2020-01-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,ssRNA(+),29903,RefSeq,complete,,China,,Homo sapiens,,2019-12
+MW595907,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29793,GenBank,complete,,Egypt,,Homo sapiens,oronasopharynx,2021-01-03
+MW595908,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,Mexico,,Homo sapiens,oronasopharynx,2020-09-21
+MW595909,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29866,GenBank,complete,,Mexico,,Homo sapiens,oronasopharynx,2020-08-18
+MW595911,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-12-03
+MW595912,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-11-10
+MW595914,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-11-10
+MW595915,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-11-10
+MW595916,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-11-10
+MW595918,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-11-24
+MW595919,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Anand,,Homo sapiens,,2020-12-22
+MW595923,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Anand,,Homo sapiens,,2020-12-22
+MW595948,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-11-10
+MW595950,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Vadodara,,Homo sapiens,,2020-12-23
+MW595982,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Vadodara,,Homo sapiens,,2020-12-23
+MW595991,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-12-24
+MW595997,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-12-24
+MW595999,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-12-24
+MW596004,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-30
+MW596005,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-30
+MW596006,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29885,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-28
+MW596007,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-29
+MW596008,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-29
+MW596009,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-29
+MW596010,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-29
+MW596011,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-29
+MW596012,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29858,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596013,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-29
+MW596014,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29828,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-28
+MW596015,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-01-29
+MW596016,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29864,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596017,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29852,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596018,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-29
+MW596019,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29864,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-29
+MW596020,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29847,GenBank,complete,,USA: Colorado,CO,Homo sapiens,oronasopharynx,2021-01-29
+MW596021,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29874,GenBank,complete,,USA: South Carolina,SC,Homo sapiens,oronasopharynx,2021-01-29
+MW596022,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29853,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-29
+MW596023,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29880,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-29
+MW596024,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29853,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-29
+MW596025,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-30
+MW596026,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-29
+MW596027,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29880,GenBank,complete,,USA: Utah,UT,Homo sapiens,oronasopharynx,2021-01-29
+MW596028,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29876,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-29
+MW596029,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29874,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-29
+MW596030,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-30
+MW596031,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29820,GenBank,complete,,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-01-30
+MW596032,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596033,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29879,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-29
+MW596034,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29859,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-29
+MW596035,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29835,GenBank,complete,,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-01-28
+MW596036,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596037,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29882,GenBank,complete,,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-01-28
+MW596038,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29849,GenBank,complete,,USA: Michigan,MI,Homo sapiens,oronasopharynx,2021-01-28
+MW596039,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29878,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596040,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29869,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-28
+MW596041,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29849,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596042,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29823,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-29
+MW596043,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-01-27
+MW596044,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-29
+MW596045,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29859,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-28
+MW596046,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29859,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-29
+MW596047,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29885,GenBank,complete,,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-01-30
+MW596048,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29848,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596049,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29882,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-29
+MW596050,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596051,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29868,GenBank,complete,,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-01-29
+MW596052,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-29
+MW596053,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29858,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596054,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29878,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-30
+MW596055,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29847,GenBank,complete,,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-01-30
+MW596056,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29829,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-29
+MW596057,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: New York,NY,Homo sapiens,oronasopharynx,2021-01-29
+MW596058,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-01-29
+MW596059,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596060,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29828,GenBank,complete,,USA: Mississippi,MS,Homo sapiens,oronasopharynx,2021-01-29
+MW596061,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596062,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-29
+MW596063,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29864,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-30
+MW596064,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29868,GenBank,complete,,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-01-30
+MW596065,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-28
+MW596066,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-29
+MW596068,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-29
+MW596069,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29878,GenBank,complete,,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-01-29
+MW596070,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29871,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-29
+MW596071,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29862,GenBank,complete,,USA: New York,NY,Homo sapiens,oronasopharynx,2021-01-07
+MW596072,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29823,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-08
+MW596073,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-07
+MW596075,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29849,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-08
+MW596076,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-09
+MW596077,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-08
+MW596078,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29879,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-08
+MW596080,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29848,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-08
+MW596083,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29859,GenBank,complete,,USA: Oklahoma,OK,Homo sapiens,oronasopharynx,2021-01-08
+MW596084,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29848,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-07
+MW596086,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29863,GenBank,complete,,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-01-09
+MW596087,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29865,GenBank,complete,,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-01-08
+MW596089,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29841,GenBank,complete,,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-01-07
+MW596090,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29830,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-07
+MW596091,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-08
+MW596092,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29852,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-08
+MW596095,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29869,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-08
+MW596096,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-08
+MW596097,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29852,GenBank,complete,,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-01-07
+MW596099,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29845,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-08
+MW596100,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-01-08
+MW596101,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29877,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-08
+MW596102,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29844,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-07
+MW596103,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-07
+MW596106,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29801,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-07
+MW596108,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29866,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-07
+MW596109,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29878,GenBank,complete,,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-01-07
+MW596112,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29858,GenBank,complete,,USA: West Virginia,WV,Homo sapiens,oronasopharynx,2021-01-07
+MW596113,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29877,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-09
+MW596115,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29849,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-07
+MW596116,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-07
+MW596118,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29875,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-06
+MW596119,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29871,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-08
+MW596120,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-09
+MW596121,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: South Carolina,SC,Homo sapiens,oronasopharynx,2021-01-08
+MW596123,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29872,GenBank,complete,,USA: New York,NY,Homo sapiens,oronasopharynx,2021-01-08
+MW596124,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29868,GenBank,complete,,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-01-09
+MW596126,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29842,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-10
+MW596129,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29880,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-10
+MW596130,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-10
+MW596131,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-01-07
+MW596132,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-07
+MW596133,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29822,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-07
+MW596136,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Wisconsin,WI,Homo sapiens,oronasopharynx,2021-01-09
+MW596138,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-07
+MW596139,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29867,GenBank,complete,,USA: Colorado,CO,Homo sapiens,oronasopharynx,2021-01-07
+MW596140,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-01-07
+MW596141,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29879,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-07
+MW596142,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-08
+MW596143,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Georgia,GA,Homo sapiens,oronasopharynx,2021-01-07
+MW596144,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29882,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-10
+MW596147,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-07
+MW596148,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29879,GenBank,complete,,USA: Wisconsin,WI,Homo sapiens,oronasopharynx,2021-01-08
+MW596149,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29879,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-10
+MW596152,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29880,GenBank,complete,,USA: North Dakota,ND,Homo sapiens,oronasopharynx,2021-01-08
+MW596154,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29796,GenBank,complete,,USA: South Carolina,SC,Homo sapiens,oronasopharynx,2021-01-07
+MW596155,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-10
+MW596157,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29875,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-10
+MW596159,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-08
+MW596160,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596161,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29886,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-11
+MW596162,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Michigan,MI,Homo sapiens,oronasopharynx,2021-01-10
+MW596163,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29851,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-10
+MW596164,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29852,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-06
+MW596166,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29868,GenBank,complete,,USA: Ohio,OH,Homo sapiens,oronasopharynx,2021-01-07
+MW596167,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29859,GenBank,complete,,USA: Utah,UT,Homo sapiens,oronasopharynx,2021-01-10
+MW596168,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29821,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-08
+MW596169,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-01-08
+MW596170,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-10
+MW596172,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29848,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-08
+MW596173,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Rhode Island,RI,Homo sapiens,oronasopharynx,2021-01-07
+MW596174,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29874,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-07
+MW596177,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29849,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596178,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Massachusetts,MA,Homo sapiens,oronasopharynx,2021-01-09
+MW596179,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29861,GenBank,complete,,USA: Minnesota,MN,Homo sapiens,oronasopharynx,2021-01-09
+MW596180,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: New Jersey,NJ,Homo sapiens,oronasopharynx,2021-01-09
+MW596183,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29874,GenBank,complete,,USA: Washington,WA,Homo sapiens,oronasopharynx,2021-01-09
+MW596185,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29871,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596187,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29824,GenBank,complete,,USA: Illinois,IL,Homo sapiens,oronasopharynx,2021-01-09
+MW596189,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Kentucky,KY,Homo sapiens,oronasopharynx,2021-01-09
+MW596191,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29855,GenBank,complete,,USA: Arizona,AZ,Homo sapiens,oronasopharynx,2021-01-09
+MW596193,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29879,GenBank,complete,,USA: Tennessee,TN,Homo sapiens,oronasopharynx,2021-01-07
+MW596194,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29825,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596195,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29842,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-09
+MW596196,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29881,GenBank,complete,,USA: Wisconsin,WI,Homo sapiens,oronasopharynx,2021-01-09
+MW596198,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29861,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596200,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29880,GenBank,complete,,USA: Alabama,AL,Homo sapiens,oronasopharynx,2021-01-09
+MW596201,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29873,GenBank,complete,,USA: Kansas,KS,Homo sapiens,oronasopharynx,2021-01-07
+MW596202,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29882,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-09
+MW596203,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Maryland,MD,Homo sapiens,oronasopharynx,2021-01-09
+MW596205,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29857,GenBank,complete,,USA: Virginia,VA,Homo sapiens,oronasopharynx,2021-01-09
+MW596208,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29828,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-09
+MW596210,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29885,GenBank,complete,,USA: South Carolina,SC,Homo sapiens,oronasopharynx,2021-01-09
+MW596212,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29875,GenBank,complete,,USA: Oregon,OR,Homo sapiens,oronasopharynx,2021-01-10
+MW596213,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29851,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-09
+MW596214,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-08
+MW596215,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29868,GenBank,complete,,USA: Texas,TX,Homo sapiens,oronasopharynx,2021-01-09
+MW596216,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-07
+MW596220,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29867,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-10
+MW596222,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-10
+MW596223,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29870,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-09
+MW596224,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-01-08
+MW596225,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29874,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-09
+MW596226,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29868,GenBank,complete,,USA: Michigan,MI,Homo sapiens,oronasopharynx,2021-01-09
+MW596227,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29856,GenBank,complete,,USA: Pennsylvania,PA,Homo sapiens,oronasopharynx,2021-01-09
+MW596228,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29851,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596229,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29850,GenBank,complete,,USA: Florida,FL,Homo sapiens,oronasopharynx,2021-01-09
+MW596230,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29854,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-09
+MW596231,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29851,GenBank,complete,,USA: Indiana,IN,Homo sapiens,oronasopharynx,2021-01-09
+MW596232,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29862,GenBank,complete,,USA: California,CA,Homo sapiens,oronasopharynx,2021-01-11
+MW596234,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29869,GenBank,complete,,USA: Louisiana,LA,Homo sapiens,oronasopharynx,2021-01-09
+MW596235,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29871,GenBank,complete,,USA: North Carolina,NC,Homo sapiens,oronasopharynx,2021-01-08
+MW596237,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Ahmedabad,,Homo sapiens,,2020-12-24
+MW596415,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29782,GenBank,complete,,India: Vadodara,,Homo sapiens,,2020-12-25
+MW598405,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29884,GenBank,complete,,Ghana,,Homo sapiens,,2021-01-10
+MW598406,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,,29903,GenBank,complete,,Ghana,,Homo sapiens,,2021-01-10
