@@ -1,0 +1,751 @@
+,country,cluster,percent
+0,China,0,0.01818181818181818
+1,Bangladesh,0,0.8962765957446809
+2,Egypt,0,0.05357142857142857
+3,Mexico,0,0.0
+4,India,0,0.049079754601226995
+5,Ghana,0,0.28688524590163933
+6,Brazil,0,0.29411764705882354
+7,Morocco,0,0.08333333333333333
+8,Iraq,0,0.0
+9,France,0,0.06741573033707865
+10,Netherlands,0,0.058823529411764705
+11,Hong Kong,0,0.24271844660194175
+12,Uruguay,0,0.875
+13,Serbia,0,0.7931034482758621
+14,Argentina,0,0.0
+15,Pakistan,0,0.125
+16,Dominican Republic,0,0.0
+17,Benin,0,0.0
+18,Italy,0,0.21621621621621623
+19,West Bank,0,0.8888888888888888
+20,Russia,0,0.6818181818181818
+21,Japan,0,0.782258064516129
+22,Chile,0,0.35177865612648224
+23,Peru,0,0.6382978723404256
+24,Myanmar,0,0.0
+25,South Korea,0,0.05263157894736842
+26,Mali,0,0.0
+27,Tunisia,0,0.2
+28,Spain,0,0.09090909090909091
+29,Belgium,0,0.0
+30,Germany,0,0.1780821917808219
+31,Taiwan,0,0.09523809523809523
+32,Bahrain,0,0.6666666666666666
+33,Cambodia,0,0.0
+34,Ecuador,0,0.75
+35,Canada,0,0.3333333333333333
+36,Turkey,0,0.5238095238095238
+37,Nigeria,0,1.0
+38,Poland,0,0.34265734265734266
+39,United Kingdom,0,0.25
+40,Philippines,0,0.9583333333333334
+41,Israel,0,0.25
+42,Malta,0,0.0
+43,Malaysia,0,0.0
+44,Puerto Rico,0,0.125
+45,Iran,0,0.0
+46,Denmark,0,1.0
+47,Venezuela,0,0.3333333333333333
+48,Sierra Leone,0,0.2
+49,Belize,0,0.5
+50,Guatemala,0,0.0
+51,Georgia,0,0.0
+52,Saudi Arabia,0,0.40350877192982454
+53,Jordan,0,0.43478260869565216
+54,Lebanon,0,0.25
+55,Zambia,0,1.0
+56,Thailand,0,0.0
+57,New Zealand,0,0.0
+58,Timor-Leste,0,0.0
+59,Czech Republic,0,0.7391304347826086
+60,Jamaica,0,0.0
+61,Colombia,0,0.0
+62,Greece,0,0.6288659793814433
+63,Guam,0,0.0
+64,Kazakhstan,0,0.25
+65,Sri Lanka,0,0.25
+66,South Africa,0,0.0
+67,Viet Nam,0,0.0
+68,Sweden,0,0.0
+69,Nepal,0,0.0
+70,Finland,0,0.0
+71,"Washington,Whatcom County",0,0.0
+72,WA,0,0.0
+73,Massachusetts,0,0.1111111111111111
+74,"San Diego, California",0,0.0
+75,None,0,0.08695652173913043
+76,Minnesota,0,0.0
+77,DC,0,0.5
+78,"CA, Alameda County",0,0.0
+79,"Washington,Yakima County",0,0.6666666666666666
+80,ID,0,0.0
+81,"Washington, Yakima County",0,0.25
+82,NY,0,0.2
+83,UT,0,0.0
+84,MO,0,0.0
+85,"Washington,King County",0,0.3333333333333333
+86,Virginia,0,0.15384615384615385
+87,"CA, Orange County",0,0.5
+88,CA,0,0.07692307692307693
+89,FL,0,0.058823529411764705
+90,Florida,0,0.0
+91,"Wisconsin, Dane County",0,0.0
+92,MD,0,0.0
+93,"CA, Santa Clara County",0,0.25
+94,Utah,0,0.0
+95,Texas,0,0.0
+96,"Imperial, California",0,0.0
+97,OK,0,0.0
+98,Oklahoma,0,0.0
+99,California,0,0.0
+100,"Wisconsin, Dane county",0,0.0
+101,North Carolina,0,0.0
+102,SC,0,0.0
+103,"Wisconsin, Milwaukee county",0,0.25
+104,"New Orleans, Louisiana",0,0.0
+105,Maryland,0,0.5
+106,"Wisconsin, Green county",0,0.0
+107,MI,0,0.0
+108,OR,0,0.0
+109,TN,0,0.0
+110,MN,0,0.0
+111,ME,0,0.0
+112,"Washington,Grays Harbor County",0,0.0
+113,Washington,0,0.25
+114,Rhode Island,0,0.0
+115,Ohio,0,0.0
+116,"Wisconsin, Rock County",0,0.0
+117,NH,0,0.0
+118,Mississippi,0,0.0
+119,"CA, Humboldt County",0,1.0
+120,"Washington,Adams County",0,0.0
+121,New Mexico,0,0.0
+122,Michigan,0,0.0
+123,"CA, San Luis Obispo County",0,0.0
+124,Australia,0,0.9333333333333333
+125,China,1,0.0
+126,Bangladesh,1,0.05585106382978723
+127,Egypt,1,0.023809523809523808
+128,Mexico,1,0.8823529411764706
+129,India,1,0.401840490797546
+130,Ghana,1,0.01639344262295082
+131,Brazil,1,0.0
+132,Morocco,1,0.0
+133,Iraq,1,0.03333333333333333
+134,France,1,0.0
+135,Netherlands,1,0.0
+136,Hong Kong,1,0.1262135922330097
+137,Uruguay,1,0.0
+138,Serbia,1,0.006896551724137931
+139,Argentina,1,0.0
+140,Pakistan,1,0.2
+141,Dominican Republic,1,0.0
+142,Benin,1,0.0
+143,Italy,1,0.0
+144,West Bank,1,0.0
+145,Russia,1,0.0
+146,Japan,1,0.0
+147,Chile,1,0.0
+148,Peru,1,0.0
+149,Myanmar,1,1.0
+150,South Korea,1,0.0
+151,Mali,1,0.0
+152,Tunisia,1,0.01818181818181818
+153,Spain,1,0.0
+154,Belgium,1,0.0
+155,Germany,1,0.0136986301369863
+156,Taiwan,1,0.09523809523809523
+157,Bahrain,1,0.016260162601626018
+158,Cambodia,1,0.0
+159,Ecuador,1,0.0
+160,Canada,1,0.0
+161,Turkey,1,0.023809523809523808
+162,Nigeria,1,0.0
+163,Poland,1,0.02097902097902098
+164,United Kingdom,1,0.0
+165,Philippines,1,0.0
+166,Israel,1,0.25
+167,Malta,1,1.0
+168,Malaysia,1,0.0
+169,Puerto Rico,1,0.0
+170,Iran,1,0.14285714285714285
+171,Denmark,1,0.0
+172,Venezuela,1,0.0
+173,Sierra Leone,1,0.0
+174,Belize,1,0.0
+175,Guatemala,1,0.0
+176,Georgia,1,0.0
+177,Saudi Arabia,1,0.07017543859649122
+178,Jordan,1,0.0
+179,Lebanon,1,0.0
+180,Zambia,1,0.0
+181,Thailand,1,0.0
+182,New Zealand,1,0.0
+183,Timor-Leste,1,0.0
+184,Czech Republic,1,0.0
+185,Jamaica,1,0.0
+186,Colombia,1,0.0
+187,Greece,1,0.0
+188,Guam,1,0.0
+189,Kazakhstan,1,0.0
+190,Sri Lanka,1,0.0
+191,South Africa,1,0.0
+192,Viet Nam,1,0.0
+193,Sweden,1,0.0
+194,Nepal,1,0.0
+195,Finland,1,0.0
+196,"Washington,Whatcom County",1,0.0
+197,WA,1,0.0
+198,Massachusetts,1,0.1111111111111111
+199,"San Diego, California",1,0.5
+200,None,1,0.08695652173913043
+201,Minnesota,1,0.1111111111111111
+202,DC,1,0.0
+203,"CA, Alameda County",1,1.0
+204,"Washington,Yakima County",1,0.0
+205,ID,1,0.0
+206,"Washington, Yakima County",1,0.0
+207,NY,1,0.0
+208,UT,1,0.0
+209,MO,1,0.0
+210,"Washington,King County",1,0.0
+211,Virginia,1,0.15384615384615385
+212,"CA, Orange County",1,0.25
+213,CA,1,0.0
+214,FL,1,0.058823529411764705
+215,Florida,1,0.0
+216,"Wisconsin, Dane County",1,0.0
+217,MD,1,0.0
+218,"CA, Santa Clara County",1,0.5
+219,Utah,1,0.0
+220,Texas,1,0.0
+221,"Imperial, California",1,1.0
+222,OK,1,0.0
+223,Oklahoma,1,0.0
+224,California,1,0.0
+225,"Wisconsin, Dane county",1,0.0
+226,North Carolina,1,0.0
+227,SC,1,0.0
+228,"Wisconsin, Milwaukee county",1,0.0
+229,"New Orleans, Louisiana",1,0.0
+230,Maryland,1,0.0
+231,"Wisconsin, Green county",1,0.0
+232,MI,1,0.0
+233,OR,1,0.0
+234,TN,1,0.0
+235,MN,1,0.0
+236,ME,1,0.0
+237,"Washington,Grays Harbor County",1,0.0
+238,Washington,1,0.0
+239,Rhode Island,1,0.0
+240,Ohio,1,0.0
+241,"Wisconsin, Rock County",1,0.0
+242,NH,1,0.0
+243,Mississippi,1,0.0
+244,"CA, Humboldt County",1,0.0
+245,"Washington,Adams County",1,0.0
+246,New Mexico,1,0.0
+247,Michigan,1,0.0
+248,"CA, San Luis Obispo County",1,1.0
+249,Australia,1,0.0
+250,China,2,0.9818181818181818
+251,Bangladesh,2,0.0398936170212766
+252,Egypt,2,0.6349206349206349
+253,Mexico,2,0.11764705882352941
+254,India,2,0.5337423312883436
+255,Ghana,2,0.21311475409836064
+256,Brazil,2,0.7058823529411765
+257,Morocco,2,0.9166666666666666
+258,Iraq,2,0.9666666666666667
+259,France,2,0.9325842696629213
+260,Netherlands,2,0.9411764705882353
+261,Hong Kong,2,0.6310679611650486
+262,Uruguay,2,0.125
+263,Serbia,2,0.19310344827586207
+264,Argentina,2,1.0
+265,Pakistan,2,0.675
+266,Dominican Republic,2,0.0
+267,Benin,2,1.0
+268,Italy,2,0.6891891891891891
+269,West Bank,2,0.1111111111111111
+270,Russia,2,0.3181818181818182
+271,Japan,2,0.21774193548387097
+272,Chile,2,0.6482213438735178
+273,Peru,2,0.3404255319148936
+274,Myanmar,2,0.0
+275,South Korea,2,0.9473684210526315
+276,Mali,2,1.0
+277,Tunisia,2,0.7818181818181819
+278,Spain,2,0.9090909090909091
+279,Belgium,2,1.0
+280,Germany,2,0.8082191780821918
+281,Taiwan,2,0.7619047619047619
+282,Bahrain,2,0.3170731707317073
+283,Cambodia,2,1.0
+284,Ecuador,2,0.25
+285,Canada,2,0.6666666666666666
+286,Turkey,2,0.4523809523809524
+287,Nigeria,2,0.0
+288,Poland,2,0.6363636363636364
+289,United Kingdom,2,0.75
+290,Philippines,2,0.041666666666666664
+291,Israel,2,0.5
+292,Malta,2,0.0
+293,Malaysia,2,1.0
+294,Puerto Rico,2,0.875
+295,Iran,2,0.8571428571428571
+296,Denmark,2,0.0
+297,Venezuela,2,0.6666666666666666
+298,Sierra Leone,2,0.8
+299,Belize,2,0.5
+300,Guatemala,2,1.0
+301,Georgia,2,1.0
+302,Saudi Arabia,2,0.5263157894736842
+303,Jordan,2,0.5652173913043478
+304,Lebanon,2,0.75
+305,Zambia,2,0.0
+306,Thailand,2,1.0
+307,New Zealand,2,1.0
+308,Timor-Leste,2,1.0
+309,Czech Republic,2,0.2608695652173913
+310,Jamaica,2,1.0
+311,Colombia,2,1.0
+312,Greece,2,0.3711340206185567
+313,Guam,2,1.0
+314,Kazakhstan,2,0.75
+315,Sri Lanka,2,0.75
+316,South Africa,2,1.0
+317,Viet Nam,2,1.0
+318,Sweden,2,1.0
+319,Nepal,2,1.0
+320,Finland,2,1.0
+321,"Washington,Whatcom County",2,1.0
+322,WA,2,1.0
+323,Massachusetts,2,0.7777777777777778
+324,"San Diego, California",2,0.5
+325,None,2,0.6956521739130435
+326,Minnesota,2,0.5555555555555556
+327,DC,2,0.0
+328,"CA, Alameda County",2,0.0
+329,"Washington,Yakima County",2,0.3333333333333333
+330,ID,2,0.0
+331,"Washington, Yakima County",2,0.75
+332,NY,2,0.8
+333,UT,2,1.0
+334,MO,2,0.5
+335,"Washington,King County",2,0.3333333333333333
+336,Virginia,2,0.5384615384615384
+337,"CA, Orange County",2,0.0
+338,CA,2,0.7692307692307693
+339,FL,2,0.7647058823529411
+340,Florida,2,0.4
+341,"Wisconsin, Dane County",2,0.25
+342,MD,2,0.3333333333333333
+343,"CA, Santa Clara County",2,0.25
+344,Utah,2,1.0
+345,Texas,2,0.0
+346,"Imperial, California",2,0.0
+347,OK,2,0.0
+348,Oklahoma,2,0.0
+349,California,2,0.8
+350,"Wisconsin, Dane county",2,1.0
+351,North Carolina,2,0.0
+352,SC,2,1.0
+353,"Wisconsin, Milwaukee county",2,0.75
+354,"New Orleans, Louisiana",2,1.0
+355,Maryland,2,0.5
+356,"Wisconsin, Green county",2,0.0
+357,MI,2,1.0
+358,OR,2,1.0
+359,TN,2,0.0
+360,MN,2,1.0
+361,ME,2,1.0
+362,"Washington,Grays Harbor County",2,0.0
+363,Washington,2,0.75
+364,Rhode Island,2,1.0
+365,Ohio,2,1.0
+366,"Wisconsin, Rock County",2,0.0
+367,NH,2,0.5
+368,Mississippi,2,0.0
+369,"CA, Humboldt County",2,0.0
+370,"Washington,Adams County",2,1.0
+371,New Mexico,2,1.0
+372,Michigan,2,1.0
+373,"CA, San Luis Obispo County",2,0.0
+374,Australia,2,0.06666666666666667
+375,China,3,0.0
+376,Bangladesh,3,0.0026595744680851063
+377,Egypt,3,0.0
+378,Mexico,3,0.0
+379,India,3,0.010736196319018405
+380,Ghana,3,0.45081967213114754
+381,Brazil,3,0.0
+382,Morocco,3,0.0
+383,Iraq,3,0.0
+384,France,3,0.0
+385,Netherlands,3,0.0
+386,Hong Kong,3,0.0
+387,Uruguay,3,0.0
+388,Serbia,3,0.0
+389,Argentina,3,0.0
+390,Pakistan,3,0.0
+391,Dominican Republic,3,1.0
+392,Benin,3,0.0
+393,Italy,3,0.06756756756756757
+394,West Bank,3,0.0
+395,Russia,3,0.0
+396,Japan,3,0.0
+397,Chile,3,0.0
+398,Peru,3,0.010638297872340425
+399,Myanmar,3,0.0
+400,South Korea,3,0.0
+401,Mali,3,0.0
+402,Tunisia,3,0.0
+403,Spain,3,0.0
+404,Belgium,3,0.0
+405,Germany,3,0.0
+406,Taiwan,3,0.0
+407,Bahrain,3,0.0
+408,Cambodia,3,0.0
+409,Ecuador,3,0.0
+410,Canada,3,0.0
+411,Turkey,3,0.0
+412,Nigeria,3,0.0
+413,Poland,3,0.0
+414,United Kingdom,3,0.0
+415,Philippines,3,0.0
+416,Israel,3,0.0
+417,Malta,3,0.0
+418,Malaysia,3,0.0
+419,Puerto Rico,3,0.0
+420,Iran,3,0.0
+421,Denmark,3,0.0
+422,Venezuela,3,0.0
+423,Sierra Leone,3,0.0
+424,Belize,3,0.0
+425,Guatemala,3,0.0
+426,Georgia,3,0.0
+427,Saudi Arabia,3,0.0
+428,Jordan,3,0.0
+429,Lebanon,3,0.0
+430,Zambia,3,0.0
+431,Thailand,3,0.0
+432,New Zealand,3,0.0
+433,Timor-Leste,3,0.0
+434,Czech Republic,3,0.0
+435,Jamaica,3,0.0
+436,Colombia,3,0.0
+437,Greece,3,0.0
+438,Guam,3,0.0
+439,Kazakhstan,3,0.0
+440,Sri Lanka,3,0.0
+441,South Africa,3,0.0
+442,Viet Nam,3,0.0
+443,Sweden,3,0.0
+444,Nepal,3,0.0
+445,Finland,3,0.0
+446,"Washington,Whatcom County",3,0.0
+447,WA,3,0.0
+448,Massachusetts,3,0.0
+449,"San Diego, California",3,0.0
+450,None,3,0.0
+451,Minnesota,3,0.0
+452,DC,3,0.0
+453,"CA, Alameda County",3,0.0
+454,"Washington,Yakima County",3,0.0
+455,ID,3,0.0
+456,"Washington, Yakima County",3,0.0
+457,NY,3,0.0
+458,UT,3,0.0
+459,MO,3,0.0
+460,"Washington,King County",3,0.0
+461,Virginia,3,0.0
+462,"CA, Orange County",3,0.0
+463,CA,3,0.0
+464,FL,3,0.0
+465,Florida,3,0.0
+466,"Wisconsin, Dane County",3,0.0
+467,MD,3,0.0
+468,"CA, Santa Clara County",3,0.0
+469,Utah,3,0.0
+470,Texas,3,0.0
+471,"Imperial, California",3,0.0
+472,OK,3,0.0
+473,Oklahoma,3,0.0
+474,California,3,0.2
+475,"Wisconsin, Dane county",3,0.0
+476,North Carolina,3,0.0
+477,SC,3,0.0
+478,"Wisconsin, Milwaukee county",3,0.0
+479,"New Orleans, Louisiana",3,0.0
+480,Maryland,3,0.0
+481,"Wisconsin, Green county",3,0.0
+482,MI,3,0.0
+483,OR,3,0.0
+484,TN,3,0.0
+485,MN,3,0.0
+486,ME,3,0.0
+487,"Washington,Grays Harbor County",3,0.0
+488,Washington,3,0.0
+489,Rhode Island,3,0.0
+490,Ohio,3,0.0
+491,"Wisconsin, Rock County",3,0.0
+492,NH,3,0.0
+493,Mississippi,3,0.0
+494,"CA, Humboldt County",3,0.0
+495,"Washington,Adams County",3,0.0
+496,New Mexico,3,0.0
+497,Michigan,3,0.0
+498,"CA, San Luis Obispo County",3,0.0
+499,Australia,3,0.0
+500,China,4,0.0
+501,Bangladesh,4,0.005319148936170213
+502,Egypt,4,0.2876984126984127
+503,Mexico,4,0.0
+504,India,4,0.004601226993865031
+505,Ghana,4,0.0
+506,Brazil,4,0.0
+507,Morocco,4,0.0
+508,Iraq,4,0.0
+509,France,4,0.0
+510,Netherlands,4,0.0
+511,Hong Kong,4,0.0
+512,Uruguay,4,0.0
+513,Serbia,4,0.0
+514,Argentina,4,0.0
+515,Pakistan,4,0.0
+516,Dominican Republic,4,0.0
+517,Benin,4,0.0
+518,Italy,4,0.02702702702702703
+519,West Bank,4,0.0
+520,Russia,4,0.0
+521,Japan,4,0.0
+522,Chile,4,0.0
+523,Peru,4,0.0
+524,Myanmar,4,0.0
+525,South Korea,4,0.0
+526,Mali,4,0.0
+527,Tunisia,4,0.0
+528,Spain,4,0.0
+529,Belgium,4,0.0
+530,Germany,4,0.0
+531,Taiwan,4,0.0
+532,Bahrain,4,0.0
+533,Cambodia,4,0.0
+534,Ecuador,4,0.0
+535,Canada,4,0.0
+536,Turkey,4,0.0
+537,Nigeria,4,0.0
+538,Poland,4,0.0
+539,United Kingdom,4,0.0
+540,Philippines,4,0.0
+541,Israel,4,0.0
+542,Malta,4,0.0
+543,Malaysia,4,0.0
+544,Puerto Rico,4,0.0
+545,Iran,4,0.0
+546,Denmark,4,0.0
+547,Venezuela,4,0.0
+548,Sierra Leone,4,0.0
+549,Belize,4,0.0
+550,Guatemala,4,0.0
+551,Georgia,4,0.0
+552,Saudi Arabia,4,0.0
+553,Jordan,4,0.0
+554,Lebanon,4,0.0
+555,Zambia,4,0.0
+556,Thailand,4,0.0
+557,New Zealand,4,0.0
+558,Timor-Leste,4,0.0
+559,Czech Republic,4,0.0
+560,Jamaica,4,0.0
+561,Colombia,4,0.0
+562,Greece,4,0.0
+563,Guam,4,0.0
+564,Kazakhstan,4,0.0
+565,Sri Lanka,4,0.0
+566,South Africa,4,0.0
+567,Viet Nam,4,0.0
+568,Sweden,4,0.0
+569,Nepal,4,0.0
+570,Finland,4,0.0
+571,"Washington,Whatcom County",4,0.0
+572,WA,4,0.0
+573,Massachusetts,4,0.0
+574,"San Diego, California",4,0.0
+575,None,4,0.0
+576,Minnesota,4,0.0
+577,DC,4,0.0
+578,"CA, Alameda County",4,0.0
+579,"Washington,Yakima County",4,0.0
+580,ID,4,0.0
+581,"Washington, Yakima County",4,0.0
+582,NY,4,0.0
+583,UT,4,0.0
+584,MO,4,0.0
+585,"Washington,King County",4,0.0
+586,Virginia,4,0.0
+587,"CA, Orange County",4,0.0
+588,CA,4,0.0
+589,FL,4,0.0
+590,Florida,4,0.0
+591,"Wisconsin, Dane County",4,0.0
+592,MD,4,0.0
+593,"CA, Santa Clara County",4,0.0
+594,Utah,4,0.0
+595,Texas,4,0.0
+596,"Imperial, California",4,0.0
+597,OK,4,0.0
+598,Oklahoma,4,0.0
+599,California,4,0.0
+600,"Wisconsin, Dane county",4,0.0
+601,North Carolina,4,0.0
+602,SC,4,0.0
+603,"Wisconsin, Milwaukee county",4,0.0
+604,"New Orleans, Louisiana",4,0.0
+605,Maryland,4,0.0
+606,"Wisconsin, Green county",4,0.0
+607,MI,4,0.0
+608,OR,4,0.0
+609,TN,4,0.0
+610,MN,4,0.0
+611,ME,4,0.0
+612,"Washington,Grays Harbor County",4,0.0
+613,Washington,4,0.0
+614,Rhode Island,4,0.0
+615,Ohio,4,0.0
+616,"Wisconsin, Rock County",4,0.0
+617,NH,4,0.0
+618,Mississippi,4,0.0
+619,"CA, Humboldt County",4,0.0
+620,"Washington,Adams County",4,0.0
+621,New Mexico,4,0.0
+622,Michigan,4,0.0
+623,"CA, San Luis Obispo County",4,0.0
+624,Australia,4,0.0
+625,China,5,0.0
+626,Bangladesh,5,0.0
+627,Egypt,5,0.0
+628,Mexico,5,0.0
+629,India,5,0.0
+630,Ghana,5,0.03278688524590164
+631,Brazil,5,0.0
+632,Morocco,5,0.0
+633,Iraq,5,0.0
+634,France,5,0.0
+635,Netherlands,5,0.0
+636,Hong Kong,5,0.0
+637,Uruguay,5,0.0
+638,Serbia,5,0.006896551724137931
+639,Argentina,5,0.0
+640,Pakistan,5,0.0
+641,Dominican Republic,5,0.0
+642,Benin,5,0.0
+643,Italy,5,0.0
+644,West Bank,5,0.0
+645,Russia,5,0.0
+646,Japan,5,0.0
+647,Chile,5,0.0
+648,Peru,5,0.010638297872340425
+649,Myanmar,5,0.0
+650,South Korea,5,0.0
+651,Mali,5,0.0
+652,Tunisia,5,0.0
+653,Spain,5,0.0
+654,Belgium,5,0.0
+655,Germany,5,0.0
+656,Taiwan,5,0.047619047619047616
+657,Bahrain,5,0.0
+658,Cambodia,5,0.0
+659,Ecuador,5,0.0
+660,Canada,5,0.0
+661,Turkey,5,0.0
+662,Nigeria,5,0.0
+663,Poland,5,0.0
+664,United Kingdom,5,0.0
+665,Philippines,5,0.0
+666,Israel,5,0.0
+667,Malta,5,0.0
+668,Malaysia,5,0.0
+669,Puerto Rico,5,0.0
+670,Iran,5,0.0
+671,Denmark,5,0.0
+672,Venezuela,5,0.0
+673,Sierra Leone,5,0.0
+674,Belize,5,0.0
+675,Guatemala,5,0.0
+676,Georgia,5,0.0
+677,Saudi Arabia,5,0.0
+678,Jordan,5,0.0
+679,Lebanon,5,0.0
+680,Zambia,5,0.0
+681,Thailand,5,0.0
+682,New Zealand,5,0.0
+683,Timor-Leste,5,0.0
+684,Czech Republic,5,0.0
+685,Jamaica,5,0.0
+686,Colombia,5,0.0
+687,Greece,5,0.0
+688,Guam,5,0.0
+689,Kazakhstan,5,0.0
+690,Sri Lanka,5,0.0
+691,South Africa,5,0.0
+692,Viet Nam,5,0.0
+693,Sweden,5,0.0
+694,Nepal,5,0.0
+695,Finland,5,0.0
+696,"Washington,Whatcom County",5,0.0
+697,WA,5,0.0
+698,Massachusetts,5,0.0
+699,"San Diego, California",5,0.0
+700,None,5,0.13043478260869565
+701,Minnesota,5,0.3333333333333333
+702,DC,5,0.5
+703,"CA, Alameda County",5,0.0
+704,"Washington,Yakima County",5,0.0
+705,ID,5,1.0
+706,"Washington, Yakima County",5,0.0
+707,NY,5,0.0
+708,UT,5,0.0
+709,MO,5,0.5
+710,"Washington,King County",5,0.3333333333333333
+711,Virginia,5,0.15384615384615385
+712,"CA, Orange County",5,0.25
+713,CA,5,0.15384615384615385
+714,FL,5,0.11764705882352941
+715,Florida,5,0.6
+716,"Wisconsin, Dane County",5,0.75
+717,MD,5,0.6666666666666666
+718,"CA, Santa Clara County",5,0.0
+719,Utah,5,0.0
+720,Texas,5,1.0
+721,"Imperial, California",5,0.0
+722,OK,5,1.0
+723,Oklahoma,5,1.0
+724,California,5,0.0
+725,"Wisconsin, Dane county",5,0.0
+726,North Carolina,5,1.0
+727,SC,5,0.0
+728,"Wisconsin, Milwaukee county",5,0.0
+729,"New Orleans, Louisiana",5,0.0
+730,Maryland,5,0.0
+731,"Wisconsin, Green county",5,1.0
+732,MI,5,0.0
+733,OR,5,0.0
+734,TN,5,1.0
+735,MN,5,0.0
+736,ME,5,0.0
+737,"Washington,Grays Harbor County",5,1.0
+738,Washington,5,0.0
+739,Rhode Island,5,0.0
+740,Ohio,5,0.0
+741,"Wisconsin, Rock County",5,1.0
+742,NH,5,0.5
+743,Mississippi,5,1.0
+744,"CA, Humboldt County",5,0.0
+745,"Washington,Adams County",5,0.0
+746,New Mexico,5,0.0
+747,Michigan,5,0.0
+748,"CA, San Luis Obispo County",5,0.0
+749,Australia,5,0.0
